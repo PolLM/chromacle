@@ -9,7 +9,8 @@
 			"extensions": [
 				"GitHub.copilot",
 				"vscode-icons-team.vscode-icons",
-				"ms-python.python"
+				"ms-python.python",
+				"ms-vscode.makefile-tools"
 			]
 		}
 	}
