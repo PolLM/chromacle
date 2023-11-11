@@ -1,0 +1,98 @@
+{
+    "Yellow Mid": {
+        "Hex": "#ffeb00",
+        "Certainty": "Mid"
+    },
+    "Deep Cian Blue": {
+        "Hex": "#0014ff",
+        "Certainty": "Low"
+    },
+    "Phthalo Blue": {
+        "Hex": "#000f89",
+        "Certainty": "High"
+    },
+    "Purple": {
+        "Hex": "#800080",
+        "Certainty": "High"
+    },
+    "Silver": {
+        "Hex": "#c0c0c0",
+        "Certainty": "High"
+    },
+    "crimson": {
+        "Hex": "#dc143c",
+        "Certainty": "High"
+    },
+    "Orange": {
+        "Hex": "#ffa500",
+        "Certainty": "High"
+    },
+    "Magenta": {
+        "Hex": "#ff00ff",
+        "Certainty": "High"
+    },
+    "Raw Sienna": {
+        "Hex": "#d68a59",
+        "Certainty": "High"
+    },
+    "Lamp Black": {
+        "Hex": "#2c2c2c",
+        "Certainty": "High"
+    },
+    "Titanium White": {
+        "Hex": "#FFFFFF",
+        "Certainty": "High"
+    },
+    "Burnt Umber": {
+        "Hex": "#8a3324",
+        "Certainty": "High"
+    },
+    "Yellow Ochre": {
+        "Hex": "#edb525",
+        "Certainty": "High"
+    },
+    "Sap Green": {
+        "Hex": "#507d2a",
+        "Certainty": "High"
+    },
+    "Scarlet": {
+        "Hex": "#ff2400",
+        "Certainty": "High"
+    },
+    "Yellow Deep": {
+        "Hex": "#ffd700",
+        "Certainty": "Mid"
+    },
+    "Viridian": {
+        "Hex": "#40826d",
+        "Certainty": "High"
+    },
+    "Burnt Sienna": {
+        "Hex": "#e97451",
+        "Certainty": "High"
+    },
+    "Gold": {
+        "Hex": "#ffd700",
+        "Certainty": "High"
+    },
+    "Monastral Green": {
+        "Hex": "#01ac8c",
+        "Certainty": "Low"
+    },
+    "Vermilion": {
+        "Hex": "#e34234",
+        "Certainty": "High"
+    },
+    "Cerulean Blue": {
+        "Hex": "#2a52be",
+        "Certainty": "High"
+    },
+    "Phthalo Green": {
+        "Hex": "#123524",
+        "Certainty": "High"
+    },
+    "Lemon Yellow": {
+        "Hex": "#fff700",
+        "Certainty": "High"
+    }
+}   
